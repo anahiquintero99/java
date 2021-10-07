@@ -7,6 +7,6 @@ public class Main {
     System.out.println("\n El ancho del rectangulo: " + rectangle.width());
     System.out.println("\n El perimetro: " + rectangle.perimeter());
     System.out.println("\n El area: " + rectangle.area());
-    System.out.println("\n El area: " + rectangle.diagonal());
+    System.out.println("\n La diagonal: " + rectangle.diagonal());
   }
 }
